@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi, Yunqiu here! 👋
 
-<!--
-**YunqiuXu/YunqiuXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=YunqiuXu&count_private=true&show_icons=true&hide_border=true">](blahblahblahhh)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am a postdoctoral research fellow at UTS
+- I provide machine learning solutions for multiple areas:
+    * Reinforcement learning
+    * Natural language processing
+    * Intelligent transportation systems
+    * Cybersecurity
+    * Mobile edge computing
+    * Computer vision
+- I have expertise in:
+    * Programming
+    * Statistical modeling
+    * Problem solving
+    * Team management
+    * Technical consulting
+- My name 许云秋, means cloudy autumn in Chinese
