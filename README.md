@@ -17,6 +17,7 @@
     * Team management
     * Technical consulting
 - My name 许云秋, means cloudy autumn in Chinese
+- &nbsp;:computer:&nbsp;[LinkedIn](https://www.linkedin.com/in/yunqiu-xu-53052ab4/)&nbsp;|&nbsp;:link:&nbsp;[Google Scholar](https://scholar.google.com/citations?user=6kfxdwoAAAAJ)&nbsp;
 
 ---
 ## My Skills
