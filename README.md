@@ -2,10 +2,11 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=YunqiuXu&count_private=true&show_icons=true&hide_border=true">](blahblahblahhh)
 
-- I am a postdoctoral research fellow at UTS
+- Machine learning engineer at ROKT, ex-postdoctoral research fellow at UTS
 - I provide machine learning solutions for multiple areas:
-    * Reinforcement learning
+    * Recommendation system
     * Natural language processing
+    * Reinforcement learning
     * Intelligent transportation systems
     * Cybersecurity
     * Mobile edge computing
@@ -16,7 +17,6 @@
     * Problem solving
     * Team management
     * Technical consulting
-- My name 许云秋, means cloudy autumn in Chinese
 - &nbsp;:computer:&nbsp;[LinkedIn](https://www.linkedin.com/in/yunqiu-xu-53052ab4/)&nbsp;|&nbsp;:link:&nbsp;[Google Scholar](https://scholar.google.com/citations?user=6kfxdwoAAAAJ)&nbsp;
 
 ---
