@@ -2,7 +2,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=YunqiuXu&count_private=true&show_icons=true&hide_border=true">](blahblahblahhh)
 
-- Machine learning engineer at ROKT, ex-postdoctoral research fellow at UTS
+- Machine learning engineer @ ROKT, ex-postdoctoral research fellow @ UTS
 - I provide machine learning solutions for multiple areas:
     * Recommendation system
     * Natural language processing
@@ -17,7 +17,7 @@
     * Problem solving
     * Team management
     * Technical consulting
-- &nbsp;:computer:&nbsp;[LinkedIn](https://www.linkedin.com/in/yunqiu-xu-53052ab4/)&nbsp;|&nbsp;:link:&nbsp;[Google Scholar](https://scholar.google.com/citations?user=6kfxdwoAAAAJ)&nbsp;
+- [LinkedIn](https://www.linkedin.com/in/yunqiu-xu-53052ab4/) | [Google Scholar](https://scholar.google.com/citations?user=6kfxdwoAAAAJ)&nbsp;
 
 ---
 ## My Skills
